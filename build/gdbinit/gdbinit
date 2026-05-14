@@ -1,0 +1,2 @@
+source E:/esp32-max30102/build/gdbinit/symbols
+source E:/esp32-max30102/build/gdbinit/connect
