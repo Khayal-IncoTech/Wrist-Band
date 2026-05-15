@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/study/Job_two_projects/wristband/Wrist-Band-main/build/CMakeFiles/bootloader
+D:/study/Job_two_projects/wristband/Wrist-Band-main/build/CMakeFiles/bootloader.rule
+D:/study/Job_two_projects/wristband/Wrist-Band-main/build/CMakeFiles/bootloader-complete.rule
+D:/study/Job_two_projects/wristband/Wrist-Band-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/study/Job_two_projects/wristband/Wrist-Band-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/study/Job_two_projects/wristband/Wrist-Band-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/study/Job_two_projects/wristband/Wrist-Band-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/study/Job_two_projects/wristband/Wrist-Band-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/study/Job_two_projects/wristband/Wrist-Band-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/study/Job_two_projects/wristband/Wrist-Band-main/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
